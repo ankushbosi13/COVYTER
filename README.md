@@ -1,0 +1,2 @@
+# COVYTER
+Twitter has always been a platform where people come together to put forth their opinions about issues. The current global concern is COVID-19 and this has led to a tremendous uproar of tweets relating to COVID-19. The large amounts of tweets produced definitely provide us the opportunity to analyze the tweets for all possible information - from people's activity and involvement to how the people are emotionally affected by the pandemic.
